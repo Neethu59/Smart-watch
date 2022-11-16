@@ -1,0 +1,14 @@
+{"songs":[
+    { "name": "PRIYAN OTTATHILANU",   
+    "img":  "nerampoyi.jpg" ,   
+    "audio": "nerampoyi.mp3" },
+
+    { "name": "MALAYANKUNJU",   
+    "img":  "malayankunju.jpg" ,   
+    "audio": "malayankunju.mp3" },
+
+    { "name": "VIKRAM",   
+    "img":  "vikram.jpg" ,   
+    "audio": "vikram.mp3" } 
+]
+}
